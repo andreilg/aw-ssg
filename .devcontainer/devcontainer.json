@@ -28,8 +28,8 @@
         "Tyriar.sort-lines",
 
         // Static Site Generator
-        "budparr.language-hugo-vscode",
-        "eliostruyf.vscode-hugo-themer"
+        // "budparr.language-hugo-vscode",
+        // "eliostruyf.vscode-hugo-themer"
 
         // "christian-kohler.npm-intellisense",
         // "DavidAnson.vscode-markdownlint",
